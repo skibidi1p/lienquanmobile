@@ -308,7 +308,7 @@ v5:Destroy();
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/obfalchx/testfluent/refs/heads/main/FluentTrau"))();
+local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/skibidi1p/lienquanmobile/refs/heads/main/ca%CC%A3%CC%86c.txt"))();
 local v15 = v14:CreateWindow({
     Title = "Liên Quân Mobile",
     SubTitle = "",
